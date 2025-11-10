@@ -32,7 +32,7 @@ while True:
     print("Server > ",s.recv(1024).decode())
 ```
 ## OUTPUT
-<img width="1919" height="418" alt="image" src="https://github.com/user-attachments/assets/99bf3e3e-b1f4-4918-9811-2c88904c4113" />
+<img width="1919" height="418" alt="Screenshot 2025-11-10 155537" src="https://github.com/user-attachments/assets/c23fa636-5912-4178-a123-3b55029fd705" />
 
 
 ## RESULT
